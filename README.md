@@ -3,7 +3,6 @@
 🎓 **Student | Automation and Computer Science | Technical University of Cluj-Napoca**  
 📍 Cluj-Napoca, Romania  
 📧 noemikulcsar@yahoo.com  
-🔗 [GitHub](https://github.com/noemikulcsar)  
 
 ---
 
@@ -17,7 +16,7 @@ I am a curious and passionate student at the Faculty of Automation and Computers
 ### **👨‍💻 Technical Skills**  
 - **Programming Languages:** C, C++, C#, Java, SQL, Python, Assembly, VHDL  
 - **Technologies & Frameworks:** React.js, Java Swing, OpenGL, Blender  
-- **Databases:** MySQL, PostgreSQL  
+- **Databases:** MySQL
 
 ### **🛠 Soft Skills**  
 - Teamwork and collaboration  
@@ -59,4 +58,4 @@ Designed entirely in VHDL, this system calculates ticket prices, processes payme
 ---
 
 ## 📫 Get in Touch!  
-💌 Feel free to connect with me via email at **noemikulcsar@yahoo.com** or check out my projects on [GitHub](https://github.com/noemikulcsar)!  
+💌 Feel free to connect with me via email at **noemikulcsar@yahoo.com**!  
