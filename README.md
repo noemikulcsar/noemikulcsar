@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noemi Kulcsar!  
 
-🎓 **Student | Automation and Computer Science | Technical University of Cluj-Napoca**  
+🎓 **Student | Computer Science | Technical University of Cluj-Napoca**  
 📍 Cluj-Napoca, Romania  
 📧 noemikulcsar@yahoo.com  
 
