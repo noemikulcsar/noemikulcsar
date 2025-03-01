@@ -52,7 +52,6 @@ Designed entirely in VHDL, this system calculates ticket prices, processes payme
 
 ## 🎗️ Volunteering  
 **The Student Organization of the Technical University of Cluj-Napoca** *(2022 – June 2024)*  
-- Active volunteer in the IT department  
 - Co-coordinator in the Sports and Health Department  
 
 ---
