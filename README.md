@@ -16,7 +16,7 @@ I am a curious and passionate student at the Faculty of Automation and Computers
 ### **👨‍💻 Technical Skills**  
 - **Programming Languages:** C, C++, C#, Java, SQL, Python, Assembly, VHDL  
 - **Technologies & Frameworks:** React.js, Java Swing, OpenGL, Blender  
-- **Databases:** MySQL
+- **Databases:** MySQL, Flask
 
 ### **🛠 Soft Skills**  
 - Teamwork and collaboration  
@@ -25,7 +25,7 @@ I am a curious and passionate student at the Faculty of Automation and Computers
 
 ---
 
-## 🚀 Projects  
+## 🚀 Main Projects  
 
 ### **🔹 eBanking Web Application**  
 A banking platform using React, JavaScript, and Python, enabling complex operations such as QR transfer and bill splitting.  
